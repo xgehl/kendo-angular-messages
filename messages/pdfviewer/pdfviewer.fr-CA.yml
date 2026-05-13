@@ -34,7 +34,7 @@ kendo:
     selectionTitle: Activer la sélection
 
     # The Panning tool title and label.
-    panningTitle: Activer le défilement
+    panningTitle: Activer l'outil main
 
     # The Search tool title and label.
     searchTitle: Rechercher
