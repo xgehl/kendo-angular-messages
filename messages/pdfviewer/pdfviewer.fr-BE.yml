@@ -121,13 +121,13 @@ kendo:
     blankPageSelect: Sélectionner des fichiers...
 
     # The title of the Search tool drag handle.
-    searchDragHandleTitle: Drag handle
+    searchDragHandleTitle: Poignée de déplacement
 
     # The aria-label of the PDFViewer toolbar.
-    toolbarLabel: Toolbar
+    toolbarLabel: Barre d'outils
 
     # The aria-label of the zoom level chooser.
-    zoomLevelAriaLabel: Zoom level
+    zoomLevelAriaLabel: Niveau de zoom
 
     # The aria-label of the search input.
-    searchAriaLabel: Search text
+    searchAriaLabel: Rechercher du texte
